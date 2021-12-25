@@ -62,3 +62,4 @@ console.log(getMaxProfitSingle(dataHarga)) // intvw solution
 // └───────────┴────────┘
 // intrvwer solution :
 // 85
+// ok
