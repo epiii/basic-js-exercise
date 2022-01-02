@@ -33,9 +33,9 @@ function solution(A) {
 }
 
 // test case : 
-// let nums = []//, the function should return 4.
+// let nums = []//, the function should return array is empty
 // let nums = [1, 2, 3]//, the function should return 4.
-// let nums = [22, 40, 31]//, the function should return 4.
+// let nums = [22, 40, 31]//, the function should return 23.
 // let nums = [-1, -3] //the function should return 1.
-let nums = [1, 3, 6, 4, 1, 2]
+let nums = [1, 3, 6, 4, 1, 2] // the function should return 5
 console.log('result :', solution(nums))
